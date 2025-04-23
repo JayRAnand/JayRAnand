@@ -7,7 +7,7 @@
     - Nucleic acid techniques (DNA/RNA extarction and analysis, PCR, qPCR, RT-PCR, cloning, gene editing, library preparation, Next-Generation Sequencing)
     - Protein biochemistry (western blotting, protein expression and purification, ELISA, ITC, Co-IP, Pull-down assays, spectrophotometric assays, ultracentrifuge, chromatography)
     - Microscopy (light, flourescence, confocal, time-lapse)
-    - FLow cytometry
+    - Flow cytometry
 - I primarily use R. I also have experience working with UNIX, python, MATLAB and high throughput computing cluster.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jayranand).
