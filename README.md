@@ -1,4 +1,13 @@
 ## Hi there 👋
+- I have cultivated over 15 years of experience at the intersection of molecular cancer biology, pharmacology, and computational biology.
+- I study how DNA damage response (DDR) pathways influence tumor development and therapeutic response using:
+    - High-throughput screening (CRISPR, siRNA, Chemical)
+    - Multi-omics (genomics, transcriptomics, proteomics, kinome)
+- I primarily use R. I also have experience with python and MATLAB.
+- I am deeply committed to expanding my machine learning and modeling capabilities, making it a point to learn new skills almost every month.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jayranand).
+You can also find a list of my publications on [Google Scholar](https://scholar.google.com/citations?user=UjP8njYAAAAJ&hl=en&oi=ao).
 
 <!--
 **JayRAnand/JayRAnand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
