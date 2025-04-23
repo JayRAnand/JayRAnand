@@ -9,7 +9,7 @@
     - Microscopy (light, flourescence, confocal, time-lapse)
     - Flow cytometry
 - I primarily use R. I also have experience working with UNIX, python, MATLAB and high throughput computing cluster.
-- I am excited by the challenge of interpreting experimental data and drawing meaningful conclusions.
+- Interpreting experimental data and deriving meaningful conclusions is a challenge I genuinely enjoy.
 - I am driven by the opportunity to contribute to improving outcomes for cancer patients.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jayranand).
