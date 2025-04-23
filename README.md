@@ -3,6 +3,9 @@
 - I study how DNA damage response (DDR) pathways influence tumor development and therapeutic response using:
     - High-throughput screening (CRISPR, siRNA, chemical)
     - Multi-omics (genomics, transcriptomics, proteomics, kinome)
+    - Model systems (cell lines, 3D spheroids, mice)
+    - Nucleic acid techniques (DNA/RNA extarction and analysis, PCR, qPCR, RT-PCR, cloning, gene editing, library preparation)
+    - Protein biochemistry (
 - I primarily use R. I also have experience with python and MATLAB.
 - I am deeply committed to expanding my machine learning and modeling capabilities, making it a point to learn new skills almost every month.
 
