@@ -1,7 +1,7 @@
 ## Hi there 👋
-- I have cultivated over 15 years of experience at the intersection of molecular cancer biology, pharmacology, and computational biology.
+- I am a molecular pharmacologist with over 15 years of experience at the intersection of molecular cancer biology, pharmacology, and computational biology.
 - I study how DNA damage response (DDR) pathways influence tumor development and therapeutic response using:
-    - High-throughput screening (CRISPR, siRNA, Chemical)
+    - High-throughput screening (CRISPR, siRNA, chemical)
     - Multi-omics (genomics, transcriptomics, proteomics, kinome)
 - I primarily use R. I also have experience with python and MATLAB.
 - I am deeply committed to expanding my machine learning and modeling capabilities, making it a point to learn new skills almost every month.
