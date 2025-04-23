@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I am a molecular pharmacologist with over 15 years of experience at the intersection of molecular cancer biology, pharmacology, and computational biology.
+- I am a molecular pharmacologist with PhD in Biopharmaceutical Sciences and over 15 years of experience at the intersection of molecular cancer biology, pharmacology, and computational biology.
 - I study how DNA damage response (DDR) pathways influence tumor development and therapeutic response using:
     - High-throughput screening (CRISPR, siRNA, chemical)
     - Multi-omics (genomics, transcriptomics, proteomics, kinome)
