@@ -8,7 +8,7 @@
     - Protein biochemistry (western blotting, protein expression and purification, ELISA, ITC, Co-IP, Pull-down assays, spectrophotometric assays, ultracentrifuge, chromatography)
     - Microscopy (light, flourescence, confocal, time-lapse)
     - Flow cytometry
-- I primarily use R. I also have experience working with UNIX, python, MATLAB and high throughput computing cluster.
+- I primarily use R and python. I also have experience working with UNIX, MATLAB and high throughput computing cluster.
 - Interpreting data and deriving meaningful conclusions is a challenge I genuinely enjoy.
 - I am driven by the opportunity to contribute to improving outcomes for patients.
 
